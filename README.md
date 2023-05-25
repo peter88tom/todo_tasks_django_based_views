@@ -1,2 +1,2 @@
-# todo_tasks_django_based_views
-Build a ToDo App using Django based views
+# ToDo App
+Build a ToDo App using Django class based views.
