@@ -1,6 +1,6 @@
 <form method="POST" action="/">
     {% csrf_token %}
-    <textarea name="body"></textarea>
+    <textarea name="body" required></textarea>
     <input type="submit" value="Add Task" />
 </form>
 
